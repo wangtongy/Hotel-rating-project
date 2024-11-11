@@ -1,1 +1,1 @@
-# DA401
+# Hotel rating project
